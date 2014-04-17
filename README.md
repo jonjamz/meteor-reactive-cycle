@@ -40,7 +40,7 @@ the browser's viewport, not by an index attribute.
 _In order for this to work properly, you must style the elements you're cycling through to
 fit into your container precisely as you want them. For example, for a single-page swipe
 look, you'll want to specify one element per set, and you'll want to style each element
-to be 100% width and height of the container.__
+to be 100% width and height of the container._
 
 ## Install
 
