@@ -11,8 +11,10 @@ of events in the settings object under the `events` property. For example:
 
 ```javascript
 var settings = {
-  /* other settings... */
-  events: ['scroll', 'swipe', 'click']
+
+  /* other settings, */
+  
+  events: ['scroll', 'swipe', 'click'],
 
   /* If you specify the click event, you must also specify which buttons to use */
   clickNext: '.click-next',
