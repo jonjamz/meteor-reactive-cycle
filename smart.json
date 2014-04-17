@@ -1,0 +1,11 @@
+{
+  "name": "reactive-cycle",
+  "description": "Reactively cycle through elements or sets of elements in the DOM.",
+  "homepage": "https://github.com/jonjamz/reactive-cycle",
+  "author": "Jonathan James",
+  "version": "0.1.0",
+  "git": "https://github.com/jonjamz/reactive-cycle.git",
+  "packages": {
+    "jquery-visible": {}
+  }
+}
